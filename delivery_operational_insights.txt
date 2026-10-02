@@ -1,0 +1,30 @@
+ONLINE ORDER DELIVERY TIME PREDICTION SYSTEM - OPERATIONAL INSIGHTS
+======================================================================
+
+Total Orders Analyzed: 1000
+Average Delivery Time: 129.74 minutes
+Median Delivery Time: 129.42 minutes
+Standard Deviation: 38.98 minutes
+
+
+Delivery Time by Priority:
+----------------------------------------------------------------------
+  Standard: 133.24 minutes (n=348)
+  Express: 129.69 minutes (n=321)
+  Premium: 126.12 minutes (n=331)
+
+
+Weather Impact Analysis:
+----------------------------------------------------------------------
+  Snowy: 134.71 minutes (n=258)
+  Foggy: 131.11 minutes (n=252)
+  Rainy: 128.30 minutes (n=231)
+  Clear: 124.76 minutes (n=259)
+
+
+Key Performance Indicators:
+----------------------------------------------------------------------
+  Express Orders On-Time Rate (<60 min): 3.4%
+  Premium Orders On-Time Rate (<45 min): 0.9%
+  Average Time for Long Distance (>30 km): 166.03 minutes
+  Average Time in High Traffic (>75%): 133.54 minutes
